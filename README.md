@@ -1,4 +1,4 @@
-ANIME CSV PROJECT
+**ANIME CSV PROJECT**
 
 Collecting data from and API and creating an Anime CSV
 
